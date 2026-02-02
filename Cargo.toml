@@ -6,6 +6,8 @@ description = "Safe Rust bindings for Qalculate library"
 license = "GPL-2.0-1"
 keywords = ["calculator", "math", "qalculate", "scientific"]
 categories = ["science", "api-bindings"]
+repository = "https://github.com/maxim-palshin/qalculate-rs"
+homepage = "https://github.com/maxim-palshin/qalculate-rs"
 
 [package.metadata.docs.rs]
 all-features = true
